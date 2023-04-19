@@ -1,0 +1,82 @@
+.example-container {
+    width: 1700px;
+    height: 700px;
+    margin: 10px;
+    position: absolute;
+    margin-top: -1px;
+    margin-left: -4px;
+
+  }
+#sides{
+    width: 200px;
+    background-color:#1489f0;
+    
+}
+#ul{
+    list-style-type: none;
+ 
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    font-weight: bolder;
+}
+#sec1{
+    height: 800px;
+    background-image: url(img.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#div1{
+    position: absolute;
+    margin-left: 200px;
+margin-top: 70px;
+
+}
+#sec2{
+    height: 600px;
+}
+#img1{
+    background-image: url(cfo-service2-1024x680.webp);
+    background-size: cover;
+    height: 400px;
+}
+#sec3{
+    height: 600px;
+}
+
+
+#img2{
+    background-image: url(best-recruiting-companies-in-chennai-india-1536x992.webp);
+    background-size: cover;
+    height: 400px;
+}
+#img3{
+    background-image: url(leading-talent-acquisition-services-in-chennai-bangalore-india-1536x1025.webp);
+    background-size: cover;
+    height: 400px;
+}
+#sec4{
+    height: 600px;
+}
+#sec5{
+    height: 600px;
+}
+#img4{
+    background-image: url(finance-accounting-outsource-600x400.webp);
+    background-size: cover;
+    height: 400px;
+}
+#img5{
+    background-image: url(Comprehensive-Performance-management.webp);
+    background-size: cover;
+    height: 400px;
+}
+#Loc:hover{
+
+    background-color: blueviolet;
+    color: antiquewhite;
+    font-weight: 900;
+    transition: 1s;
+}

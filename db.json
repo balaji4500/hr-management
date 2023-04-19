@@ -1,0 +1,99 @@
+{
+  "user": [
+    {
+      "id": "balaji",
+      "name": "r",
+      "password": "venom",
+      "email": "balajiteejey@gmail.com",
+      "gender": "male",
+      "role": "Developer",
+      "isactive": true
+    },
+    {
+      "id": "aruna",
+      "name": "arunasri",
+      "password": "venom",
+      "email": "aruna@gmail.com",
+      "gender": "Female",
+      "role": "",
+      "isactive": false
+    },
+    {
+      "id": "dhanush",
+      "name": "dhan ush",
+      "password": "aaa",
+      "email": "dhanush@gmail.com",
+      "gender": "Male",
+      "role": "",
+      "isactive": false
+    },
+    {
+      "id": "prakash",
+      "name": "prakash",
+      "password": "perky",
+      "email": "prakash@gmail.com",
+      "gender": "Male",
+      "role": "",
+      "isactive": false
+    },
+    {
+      "id": "vidya",
+      "name": "vidya",
+      "password": "vidyasri@gmail.com",
+      "email": "a@gmail.com",
+      "gender": "Male",
+      "role": "",
+      "isactive": false
+    },
+    {
+      "id": "santhosh007",
+      "name": "santhosh",
+      "password": "1234",
+      "email": "santhosh@gmail.com",
+      "gender": "Male",
+      "role": "",
+      "isactive": false
+    },
+    {
+      "id": "mahesh",
+      "name": "maheshkumar",
+      "password": "12345",
+      "email": "mahesh@gmail.com",
+      "gender": "Male",
+      "role": "",
+      "isactive": false
+    },
+    {
+      "id": "priya",
+      "name": "lakshmipriya",
+      "password": "lppp",
+      "email": "priya@gmail.com",
+      "gender": "Female",
+      "role": "",
+      "isactive": false
+    },
+    {
+      "id": "srilakshmi",
+      "name": "srilakshmi",
+      "password": "qwer",
+      "email": "srilakshmi@gmail.com",
+      "gender": "Female",
+      "role": "",
+      "isactive": false
+    }
+  ],
+  "role": [
+    {
+      "id": "deleveloper",
+      "name": "developer"
+    },
+    {
+      "id": "softest",
+      "name": "tester"
+    },
+    {
+      "id": "mang",
+      "name": "manager"
+    }
+  ]
+}

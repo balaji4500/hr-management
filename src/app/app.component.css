@@ -1,0 +1,27 @@
+#sp1 {
+    margin-left: 900px;
+}
+
+#sp2{
+    margin-left: 20px;
+}
+#sp3{
+    margin-left: 20px;
+}
+#sp4{
+    margin-left: 20px;
+}
+
+
+a {
+    text-decoration: none;
+    color: antiquewhite;
+}
+
+mat-toolbar {
+    background-color: rgb(12, 12, 12);
+}
+
+span {
+    color: antiquewhite;
+}
